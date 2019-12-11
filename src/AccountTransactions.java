@@ -72,7 +72,6 @@ public class AccountTransactions extends BankOperations {
 		}
 	
 	public boolean readMasterFile(){
-		File file = new File("/Users/marvinospina/Desktop/junk_folder/user_data.csv");
 		try {
 			Scanner filereader = new Scanner(file);
 			while (filereader.hasNextLine()) {
