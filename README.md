@@ -3,9 +3,6 @@
 Group 1: Marvin Ospina, Anthony Celentano, Julianna Rossano, Ross Krachman
 
 
-
-
-
 I. Brief Summary:
 
 The project aims to replicate using an Automated Teller Machine. The program is comprised of 3 classes: BankOperations, Transactions, and Main. The Transactions class extends BankOperations and these two classes contain the logic behind this program. The Main class is the driver for this program.
@@ -35,5 +32,6 @@ G. ATM says "goodbye" and your final balance is displayed to you.
 
 *Please Note: If you have a balance that reaches the threshold of -5000, the program will tell you to contact the teller. In order to proceed, you must deposit an amount that ensures the balance is above -5000.
 
-     
+If you would like to view our code on CodeShare.io, visit the link below:
+https://codeshare.io/5M4YZQ
 
